@@ -4,7 +4,8 @@ The JSON files can be uploaded to https://shaderlabweb.doc.ic.ac.uk/ to check th
 
 Task A - Fixed Task
 
-<img width="721" alt="Screenshot 2022-02-22 at 23 04 54" src="https://user-images.githubusercontent.com/78087643/155234515-f1f9ff9c-dc91-4371-b081-9f619f773108.png">
+<img width="711" alt="Screenshot 2022-02-22 at 23 04 54" src="https://user-images.githubusercontent.com/78087643/157964350-03e0464e-6d42-4c3f-ad5a-da2038f56bcf.png">
+
 
 Task B - Open Task
 
